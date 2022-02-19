@@ -1,0 +1,36 @@
+.box {
+  width: 250px;
+  height: 250px;
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+  margin-left: 32px;
+}
+
+.box1 {
+  width: 250px;
+  height: 250px;
+  border: 1px solid green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+  margin-left: 32px;
+}
+.box2 {
+  width: 250px;
+  height: 250px;
+  border: 1px solid blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+  margin-left: 32px;
+}
+
+.boxes {
+  width: 1120px;
+  margin: 16px auto;
+}
